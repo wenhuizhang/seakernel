@@ -6,3 +6,10 @@ virtualized virtual machines.
 
 Currently only supported on x86_64.
 
+
+Ref:
+# the hypervisor exploit , CR3, ROP
+
+Look into blob/vm-exploit/drivers/shiv/ex.s
+
+
